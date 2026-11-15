@@ -7,7 +7,7 @@ lokasi dan jalur dipetakan, dan bagaimana kualitasnya diperiksa.
 
 | Layer | Isi |
 |---|---|
-| Pembangkit eksisting | Pembangkit yang beroperasi, termasuk captive dan sistem isolated. PLTS atap dan impor tidak dimuat. |
+| Pembangkit eksisting | Pembangkit yang beroperasi, termasuk captive, sistem isolated, PLTS atap (agregat per gardu induk), dan impor dari Sarawak. |
 | Gardu induk eksisting | Gardu induk dan switchyard 70–500 kV, dengan kapasitas trafo (MVA) dan IBT di GITET. |
 | Transmisi eksisting | Saluran 70–500 kV, termasuk HVDC dan kabel laut. |
 | Rencana pembangkit | Setiap baris tabel rencana pembangkit RUPTL 2025-2034, ditambah satu koridor RUKN 2025-2060. |
@@ -42,7 +42,7 @@ dan `geometry_source` mencatat asal titik atau jalur: `OpenStreetMap` atau `Manu
 
 1. **Inventaris.** Pembangkit, gardu induk, dan saluran dihimpun dari peta jaringan IPM dan dicocokkan dengan
    RUPTL untuk kapasitas, tegangan, dan jumlah trafo.
-2. **Pembersihan.** Entri ganda dan pembangkit yang tidak lagi beroperasi dibuang. Titik bantu pemodelan
+2. **Pembersihan.** Entri ganda, saluran yang sudah digantikan, dan pembangkit yang tidak lagi beroperasi dibuang. Titik bantu pemodelan
    (junction, bus pembangkit) dan jaringan di bawah 70 kV tidak dimuat.
 3. **Nama.** Nama dibakukan ke format PLN (`PLTU <nama>`, `GI <nama>`, `Tx. <nama>` untuk titik
    percabangan) dan diterjemahkan bila masih berbahasa Inggris.
@@ -85,7 +85,7 @@ Ruas yang dipotong di titik percabangan (*tee*) disimpan sebagai MultiLineString
 - Lokasi item rencana dengan `location_confidence = medium` bersifat perkiraan.
 - Jalur `assumed` dan `schematic` bukan rute sebenarnya dan tidak cocok untuk perhitungan panjang yang presisi;
   untuk itu pakai kolom `length_km` atau `circuit_km`.
-- Total kapasitas RE Base (±59,9 GW) adalah jumlah item tabel per provinsi, sehingga bisa berbeda dari angka
+- Total kapasitas RE Base (±59,3 GW) adalah jumlah item tabel per provinsi, sehingga bisa berbeda dari angka
   ringkasan resmi RUPTL.
 - Data ini untuk edukasi, eksplorasi, dan pemodelan awal. Untuk keputusan teknis, operasional, atau hukum,
   lakukan verifikasi tambahan.

@@ -175,12 +175,7 @@ PRJ-SUB-00173,Teluk Lembu,Extension,150,150/20,60,Planned,2034,2034,2034,Riau,SU
 PRJ-SUB-00174,Peranap,Extension,500,500,,Planned,2032,,2032,Kepulauan Riau,SUMATERA,649,1,RUPTL 2025-2034,102.0332,-0.5084,Manual Mapping by IPM,medium
 PRJ-SUB-00175,LP Sungai Guntung,Extension,500,500,,Planned,2032,,2032,Kepulauan Riau,SUMATERA,649,2,RUPTL 2025-2034,104.027589,1.034082,Manual Mapping by IPM,high
 PRJ-SUB-00176,Peranap (Konverter),Extension,500,500,,Planned,2032,,2032,Kepulauan Riau,SUMATERA,649,3,RUPTL 2025-2034,102.0332,-0.5084,Manual Mapping by IPM,medium
-PRJ-SUB-00177,Rempang/Tanjung Gundap (Konverter),Extension,500,500,,Planned,2032,,2032,Kepulauan Riau,SUMATERA,649,4,RUPTL 2025-2034,104.11572,0.88462,Manual Mapping by IPM,high
 PRJ-SUB-00178,Rempang/Tanjung Gundap,Extension,500,500,,Planned,2032,,2032,Kepulauan Riau,SUMATERA,649,5,RUPTL 2025-2034,104.11572,0.88462,Manual Mapping by IPM,high
-PRJ-SUB-00179,LP Sabang Mas,New,500,500,,Planned,2032,,2032,Kepulauan Riau,SUMATERA,649,6,RUPTL 2025-2034,104.15624,0.97262,Manual Mapping by IPM,high
-PRJ-SUB-00180,LP Ngenang,New,500,500,,Planned,2032,,2032,Kepulauan Riau,SUMATERA,649,7,RUPTL 2025-2034,104.18217,1.02,Manual Mapping by IPM,high
-PRJ-SUB-00181,Ngenang,New,500,500,,Planned,2032,,2032,Kepulauan Riau,SUMATERA,649,8,RUPTL 2025-2034,104.18217,1.02,Manual Mapping by IPM,high
-PRJ-SUB-00182,LP Tanjung Taloh,New,500,500,,Planned,2032,2032,2032,Kepulauan Riau,SUMATERA,649,9,RUPTL 2025-2034,104.22994,1.02944,Manual Mapping by IPM,high
 PRJ-SUB-00183,GITET Bintan,New,500,500,,Planned,2032,,2032,Kepulauan Riau,SUMATERA,649,10,RUPTL 2025-2034,104.36391,1.10715,Manual Mapping by IPM,high
 PRJ-SUB-00184,Rempang/Tanjung Gundap (Konverter),New,500,500 kV,1500,Planned,2031,2031,2031,Kepulauan Riau,SUMATERA,653,1,RUPTL 2025-2034,104.11572,0.88462,Manual Mapping by IPM,high
 PRJ-SUB-00185,Rempang/Tanjung Gundap,New,500,500/150,1500,Planned,2031,2031,2031,Kepulauan Riau,SUMATERA,653,2,RUPTL 2025-2034,104.11572,0.88462,Manual Mapping by IPM,high
@@ -416,11 +411,7 @@ PRJ-SUB-00414,Buntok,Extension,150,150/20 kV,30,Planned,2034,2034,2034,Kalimanta
 PRJ-SUB-00415,Mintin (PLTU Pulang Pisau),Extension,150,150/20 kV,30,Planned,2034,2034,2034,Kalimantan Tengah,KALIMANTAN,769,19,RUPTL 2025-2034,114.20861,-2.821395,Manual Mapping by IPM,high
 PRJ-SUB-00416,Pulang Pisau,Uprate,150,150/20 kV,30,Planned,2034,2034,2034,Kalimantan Tengah,KALIMANTAN,769,20,RUPTL 2025-2034,114.25462,-2.73184,Manual Mapping by IPM,high
 PRJ-SUB-00417,Pangkalan Bun (Arah PLTG/GU Kalteng),Extension,150,150 kV,,Planned,2027,,2027,Kalimantan Tengah,KALIMANTAN,769,21,RUPTL 2025-2034,111.70356,-2.61595,Manual Mapping by IPM,high
-PRJ-SUB-00418,GI Sisipan Sanga-sanga - Bukuan,New,150,150 kV,,Planned,2027,,2027,Kalimantan Timur,KALIMANTAN,779,1,RUPTL 2025-2034,117.19367,-0.58318,Manual Mapping by IPM,medium
 PRJ-SUB-00419,GI PLTGU Kaltim-1,Extension,150,150 kV,,Planned,2027,,2027,Kalimantan Timur,KALIMANTAN,779,2,RUPTL 2025-2034,117.282688,-0.642832,Manual Mapping by IPM,medium
-PRJ-SUB-00420,GITET KFI,New,500,500 kV,1000,Planned,2031,,2031,Kalimantan Timur,KALIMANTAN,779,3,RUPTL 2025-2034,117.27683,-0.66281,Manual Mapping by IPM,high
-PRJ-SUB-00421,GITET Embalut,Extension,500,500 kV,,Planned,2031,,2031,Kalimantan Timur,KALIMANTAN,779,4,RUPTL 2025-2034,117.052201,-0.382199,Manual Mapping by IPM,high
-PRJ-SUB-00422,GITET Balikpapan,Extension,500,500 kV,,Planned,2031,,2031,Kalimantan Timur,KALIMANTAN,779,5,RUPTL 2025-2034,116.89058,-1.2256,Manual Mapping by IPM,high
 PRJ-SUB-00423,GI Senipah,Extension,150,150/20 kV,30,Committed,2025,2025,2025,Kalimantan Timur,KALIMANTAN,789,1,RUPTL 2025-2034,117.13514,-0.98688,Manual Mapping by IPM,high
 PRJ-SUB-00424,Tempadung,New,150,150/20 kV,30,Construction,2025,2025,2025,Kalimantan Timur,KALIMANTAN,789,2,RUPTL 2025-2034,116.687106,-1.064899,Manual Mapping by IPM,high
 PRJ-SUB-00425,Tanjung Redeb (arah Talisayan),Extension,150,150 kV,,Construction,2025,2025,2025,Kalimantan Timur,KALIMANTAN,789,3,RUPTL 2025-2034,117.4777,2.1245,Manual Mapping by IPM,high
@@ -1533,7 +1524,6 @@ PRJ-SUB-01531,Amlapura,Uprate,150,150 kV,,Planned,2028,2028,2028,Bali,JAMALI,949
 PRJ-SUB-01532,Gianyar,Uprate,150,150 kV,,Planned,2028,2028,2028,Bali,JAMALI,949,62,RUPTL 2025-2034,115.33461,-8.56187,Manual Mapping by IPM,high
 PRJ-SUB-01533,Kubu,Extension,150,150/20 kV,180,Planned,2025,2025,2025,Bali,JAMALI,949,63,RUPTL 2025-2034,115.49791,-8.20378,Manual Mapping by IPM,high
 PRJ-SUB-01534,BESS Bali Kuota III,New,150,150 kV,,Planned,2026,2026,2026,Bali,JAMALI,949,64,RUPTL 2025-2034,115.168626,-8.754969,Manual Mapping by IPM,medium
-PRJ-SUB-01535,Lolak,Extension,150,150,,Planned,2027,,2027,Sulawesi Utara,SULAWESI,958,1,RUPTL 2025-2034,123.99555,0.85765,Manual Mapping by IPM,high
 PRJ-SUB-01536,Bitung Baru,New,150,150/70,60,Committed,2025,2025,2025,Sulawesi Utara,SULAWESI,967,1,RUPTL 2025-2034,125.18915,1.44656,Manual Mapping by IPM,high
 PRJ-SUB-01537,Bitung Baru,New,150,150/20,60,Committed,2025,2025,2025,Sulawesi Utara,SULAWESI,967,2,RUPTL 2025-2034,125.18915,1.44656,Manual Mapping by IPM,high
 PRJ-SUB-01538,Tanjung Merah,Extension,150,150,,Committed,2025,2025,2025,Sulawesi Utara,SULAWESI,967,3,RUPTL 2025-2034,125.11193,1.40882,Manual Mapping by IPM,high
@@ -1550,10 +1540,6 @@ PRJ-SUB-01548,Lolak,Extension,150,150,,Planned,2027,2027,2027,Sulawesi Utara,SUL
 PRJ-SUB-01549,Sawangan,Extension,70,70,,Committed,2030,2030,2030,Sulawesi Utara,SULAWESI,968,14,RUPTL 2025-2034,124.95986,1.38735,Manual Mapping by IPM,high
 PRJ-SUB-01550,Otam,Extension,150,150,,Planned,2031,2031,2031,Sulawesi Utara,SULAWESI,968,15,RUPTL 2025-2034,124.29318,0.78042,Manual Mapping by IPM,high
 PRJ-SUB-01551,Sario (GIS)/Manado Kota,Extension,150,150/20,60,Planned,2033,2033,2033,Sulawesi Utara,SULAWESI,968,16,RUPTL 2025-2034,124.834658,1.466584,Manual Mapping by IPM,medium
-PRJ-SUB-01552,GITET Andowia (150 kV),Extension,150,150,,Planned,2027,,2027,Sulawesi Tengah,SULAWESI,977,1,RUPTL 2025-2034,121.981984,-3.565752,Manual Mapping by IPM,medium
-PRJ-SUB-01553,GITET Bungku (150 kV),Extension,150,150,,Planned,2027,,2027,Sulawesi Tengah,SULAWESI,977,2,RUPTL 2025-2034,121.929479,-2.477691,Manual Mapping by IPM,high
-PRJ-SUB-01554,GITET Bungku (150 kV),Extension,150,150,,Planned,2027,,2027,Sulawesi Tengah,SULAWESI,977,3,RUPTL 2025-2034,121.929479,-2.477691,Manual Mapping by IPM,high
-PRJ-SUB-01555,Kolonedale,Extension,150,150,,Planned,2029,,2029,Sulawesi Tengah,SULAWESI,977,4,RUPTL 2025-2034,121.41493,-2.08199,Manual Mapping by IPM,high
 PRJ-SUB-01556,GITET Bungku,Extension,275,275/150,500,Planned,2031,,2031,Sulawesi Tengah,SULAWESI,977,5,RUPTL 2025-2034,121.929479,-2.477691,Manual Mapping by IPM,high
 PRJ-SUB-01557,Bungku,New,150,150/20,30,Construction,2025,2025,2025,Sulawesi Tengah,SULAWESI,986,1,RUPTL 2025-2034,121.92945,-2.477682,Manual Mapping by IPM,high
 PRJ-SUB-01558,Tentena,Extension,150,150,,Construction,2025,2025,2025,Sulawesi Tengah,SULAWESI,986,2,RUPTL 2025-2034,120.65014,-1.64042,Manual Mapping by IPM,high
@@ -1595,13 +1581,6 @@ PRJ-SUB-01593,Botupingge,Extension,150,150 kV,,Planned,2027,2027,2027,Gorontalo,
 PRJ-SUB-01594,Botupingge,Extension,150,150 kV,,Planned,2027,2027,2027,Gorontalo,SULAWESI,998,4,RUPTL 2025-2034,123.12666,0.51969,Manual Mapping by IPM,high
 PRJ-SUB-01595,Anggrek (PLTU Gorontalo),Extension,150,150/20 kV,30,Planned,2027,2027,2027,Gorontalo,SULAWESI,998,5,RUPTL 2025-2034,122.79656,0.8507,Manual Mapping by IPM,high
 PRJ-SUB-01596,Marisa,Extension,150,150/20 kV,30,Planned,2029,2029,2029,Gorontalo,SULAWESI,998,6,RUPTL 2025-2034,122.01271,0.47776,Manual Mapping by IPM,high
-PRJ-SUB-01597,Bantaeng Switching,Extension,150,150,,Planned,2027,,2027,Sulawesi Selatan,SULAWESI,1011,1,RUPTL 2025-2034,119.93727,-5.53082,Manual Mapping by IPM,high
-PRJ-SUB-01598,Malili,Extension,150,150,,Planned,2027,,2027,Sulawesi Selatan,SULAWESI,1011,2,RUPTL 2025-2034,121.1299,-2.64492,Manual Mapping by IPM,high
-PRJ-SUB-01599,Bantaeng Switching,Extension,150,150,,Planned,2027,,2027,Sulawesi Selatan,SULAWESI,1011,3,RUPTL 2025-2034,119.93727,-5.53082,Manual Mapping by IPM,high
-PRJ-SUB-01600,Bantaeng Switching,Extension,150,150,,Planned,2027,,2027,Sulawesi Selatan,SULAWESI,1011,4,RUPTL 2025-2034,119.93727,-5.53082,Manual Mapping by IPM,high
-PRJ-SUB-01601,Malili,Extension,150,150,,Planned,2028,,2028,Sulawesi Selatan,SULAWESI,1011,5,RUPTL 2025-2034,121.1299,-2.64492,Manual Mapping by IPM,high
-PRJ-SUB-01602,GITET Malili,New,275,275/150,500,Planned,2029,,2029,Sulawesi Selatan,SULAWESI,1011,6,RUPTL 2025-2034,121.1299,-2.64492,Manual Mapping by IPM,high
-PRJ-SUB-01603,Bantaeng Switching,Extension,150,150,,Planned,2032,,2032,Sulawesi Selatan,SULAWESI,1011,7,RUPTL 2025-2034,119.93727,-5.53082,Manual Mapping by IPM,high
 PRJ-SUB-01604,Bantaeng Switching,Extension,150,150,,Planned,2025,2025,2025,Sulawesi Selatan,SULAWESI,1025,1,RUPTL 2025-2034,119.93727,-5.53082,Manual Mapping by IPM,high
 PRJ-SUB-01605,Bengo,New,150,150/20,60,Construction,2025,2025,2025,Sulawesi Selatan,SULAWESI,1025,2,RUPTL 2025-2034,120.046653,-4.6057,Manual Mapping by IPM,high
 PRJ-SUB-01606,GITET Wotu,Extension,275,275/150,250,Committed,2025,2025,2025,Sulawesi Selatan,SULAWESI,1025,3,RUPTL 2025-2034,120.79187,-2.55204,Manual Mapping by IPM,high
@@ -1651,15 +1630,6 @@ PRJ-SUB-01649,Enrekang,Extension,150,150/20,30,Planned,2033,2033,2033,Sulawesi S
 PRJ-SUB-01650,Palopo,Extension,150,150/20,60,Planned,2033,2033,2033,Sulawesi Selatan,SULAWESI,1026,45,RUPTL 2025-2034,120.17718,-3.02433,Manual Mapping by IPM,high
 PRJ-SUB-01651,Rantepao,New,150,150/20,30,Planned,2033,2033,2033,Sulawesi Selatan,SULAWESI,1026,46,RUPTL 2025-2034,119.89515,-3.07213,Manual Mapping by IPM,high
 PRJ-SUB-01652,Tallo Lama,Extension,150,150/20,60,Planned,2034,2034,2034,Sulawesi Selatan,SULAWESI,1026,47,RUPTL 2025-2034,119.43782,-5.11004,Manual Mapping by IPM,high
-PRJ-SUB-01653,GITET Kendari (150 kV),Extension,150,150,,Planned,2027,,2027,Sulawesi Tenggara,SULAWESI,1035,1,RUPTL 2025-2034,122.518007,-3.991807,Manual Mapping by IPM,high
-PRJ-SUB-01654,GITET Andowia (150 kV),Extension,150,150,,Planned,2027,,2027,Sulawesi Tenggara,SULAWESI,1035,2,RUPTL 2025-2034,122.28264,-3.35643,Manual Mapping by IPM,high
-PRJ-SUB-01655,Pomalaa Switching,New,150,150,,Planned,2029,,2029,Sulawesi Tenggara,SULAWESI,1035,3,RUPTL 2025-2034,121.611162,-4.163918,Manual Mapping by IPM,high
-PRJ-SUB-01656,GITET Kendari (150 kV),Extension,150,150,,Planned,2030,,2030,Sulawesi Tenggara,SULAWESI,1035,4,RUPTL 2025-2034,122.518007,-3.991807,Manual Mapping by IPM,high
-PRJ-SUB-01657,GITET Andowia (150 kV),Extension,150,150,,Planned,2031,,2031,Sulawesi Tenggara,SULAWESI,1035,5,RUPTL 2025-2034,122.28264,-3.35643,Manual Mapping by IPM,high
-PRJ-SUB-01658,GITET Bungku (150 kV),Extension,150,150,,Planned,2031,,2031,Sulawesi Tenggara,SULAWESI,1035,6,RUPTL 2025-2034,121.971906,-2.54733,Manual Mapping by IPM,high
-PRJ-SUB-01659,GITET Andowia,Extension,275,275/150,500,Planned,2031,,2031,Sulawesi Tenggara,SULAWESI,1035,7,RUPTL 2025-2034,122.28264,-3.35643,Manual Mapping by IPM,high
-PRJ-SUB-01660,GITET Kendari (150 kV),Extension,150,150,,Planned,2031,,2031,Sulawesi Tenggara,SULAWESI,1035,8,RUPTL 2025-2034,122.518007,-3.991807,Manual Mapping by IPM,high
-PRJ-SUB-01661,Batu Putih,New,150,150,,Planned,2031,2031,2031,Sulawesi Tenggara,SULAWESI,1035,9,RUPTL 2025-2034,121.108,-3.073,Manual Mapping by IPM,medium
 PRJ-SUB-01662,GITET Andowia (150 kV),New,150,150,,Planned,2025,2025,2025,Sulawesi Tenggara,SULAWESI,1045,1,RUPTL 2025-2034,122.28264,-3.35643,Manual Mapping by IPM,high
 PRJ-SUB-01663,Unaaha,Extension,150,150/20,30,Committed,2025,2025,2025,Sulawesi Tenggara,SULAWESI,1045,2,RUPTL 2025-2034,122.07428,-3.86177,Manual Mapping by IPM,high
 PRJ-SUB-01664,Kolaka,Extension,150,150/20,30,Committed,2025,2025,2025,Sulawesi Tenggara,SULAWESI,1045,3,RUPTL 2025-2034,121.63768,-4.0729,Manual Mapping by IPM,high

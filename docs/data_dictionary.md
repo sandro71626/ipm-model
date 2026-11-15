@@ -48,8 +48,8 @@ Ruas yang dipotong di titik *tee* menjadi MultiLineString di GeoJSON.
 ## Aset eksisting
 
 ### `existing_generators.csv`
-`id`, `name`, `technology`, `type`, `capacity_mw` (kosong bila tidak tercatat), `role`
-(Utility, Captive, Community), `isolated` (pembangkit di sistem isolated), `operator`, `operation_year`,
+`id`, `name`, `technology`, `type` (termasuk `PLTS Atap` dan `Impor`), `capacity_mw` (kosong bila tidak tercatat),
+`role` (Utility, Captive, Community, Distributed untuk PLTS atap, Import), `isolated` (pembangkit di sistem isolated), `operator`, `operation_year`,
 `province`, `system`, `lon`, `lat`, `attribute_source`, `capacity_source`, `location_source`.
 
 ### `existing_substations.csv`

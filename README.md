@@ -19,23 +19,23 @@ Repo ini hanya berisi data. Peta interaktifnya ada di situs Indonesia Power Map.
 
 | | Aset eksisting | Rencana 2025–2034 |
 |---|---:|---:|
-| Pembangkit | 2.267 pembangkit · 110,1 GW (termasuk captive) | 1.060 baris rencana |
-| Gardu induk | 1.333 GI · 128.766 MVA trafo + 111.890 MVA IBT | 1.770 pekerjaan · 114.870 MVA |
-| Transmisi 70–500 kV | 2.005 ruas · 48.189 km · 84.693 kms | 1.290 ruas · 59.026 kms |
+| Pembangkit | 3.199 entri · 108,0 GW (termasuk captive dan PLTS atap) | 1.059 baris rencana |
+| Gardu induk | 1.158 GI · 120.161 MVA trafo + 101.990 MVA IBT | 1.740 pekerjaan · 112.870 MVA |
+| Transmisi 70–500 kV | 1.947 ruas · 44.721 km · 77.146 kms | 1.258 ruas · 57.572 kms |
 
 Rincian per wilayah:
 
 | Wilayah | Pembangkit eksisting | GI eksisting | Transmisi eksisting | Rencana pembangkit | Pekerjaan GI | Ruas transmisi rencana |
 |---|---:|---:|---:|---:|---:|---:|
-| Jawa-Madura-Bali | 308 | 618 | 1.052 | 294 | 1.031 | 695 |
-| Sumatera | 662 | 341 | 452 | 204 | 346 | 203 |
-| Kalimantan | 361 | 120 | 223 | 110 | 157 | 146 |
-| Sulawesi | 293 | 147 | 205 | 167 | 162 | 161 |
-| Maluku | 206 | 19 | 7 | 77 | 9 | 28 |
-| Papua | 256 | 22 | 14 | 85 | 20 | 18 |
-| Nusa Tenggara Barat | 53 | 41 | 27 | 43 | 16 | 16 |
-| Nusa Tenggara Timur | 128 | 25 | 25 | 80 | 29 | 23 |
-| **Indonesia** | **2.267** | **1.333** | **2.005** | **1.060** | **1.770** | **1.290** |
+| Jawa-Madura-Bali | 770 | 560 | 1.080 | 294 | 1.031 | 695 |
+| Sumatera | 901 | 298 | 478 | 204 | 341 | 195 |
+| Kalimantan | 466 | 106 | 147 | 110 | 153 | 143 |
+| Sulawesi | 371 | 125 | 167 | 166 | 141 | 141 |
+| Maluku | 212 | 11 | 7 | 77 | 9 | 27 |
+| Papua | 259 | 12 | 15 | 85 | 20 | 18 |
+| Nusa Tenggara Barat | 76 | 25 | 26 | 43 | 16 | 16 |
+| Nusa Tenggara Timur | 144 | 21 | 27 | 80 | 29 | 23 |
+| **Indonesia** | **3.199** | **1.158** | **1.947** | **1.059** | **1.740** | **1.258** |
 
 Setiap item rencana mencatat tahun operasi di dua skenario RUPTL (**RE Base** dan **ARED**) serta halaman dan
 barisnya di dokumen RUPTL.
