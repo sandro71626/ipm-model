@@ -13,7 +13,7 @@ Indonesia Power Map menyatukan informasi teknis yang tersebar di RUPTL, OpenStre
 menjadi satu data collection yang rapi, konsisten, dan siap dipakai untuk pemodelan sistem tenaga: studi
 aliran daya, perencanaan ekspansi, kajian integrasi energi terbarukan, maupun analisis kebijakan.
 
-Repo ini hanya berisi data. Peta interaktifnya ada di situs Indonesia Power Map.
+Repo ini hanya berisi data. Peta interaktifnya tersedia di [indonesiapowermap.com](https://indonesiapowermap.com).
 
 ## Cakupan
 
@@ -133,7 +133,7 @@ Apabila data dari repositori ini digunakan dalam publikasi atau laporan, mohon d
 
 ```
 Sitompul, S. A. (2026). Indonesia Power Map: Data Collection (v2.0.0).
-https://github.com/alexandertiopan1212/ipm-model
+https://github.com/sandro71626/ipm-model
 ```
 
 Format BibTeX dan format lain tersedia melalui tombol "Cite this repository" di GitHub (dari
