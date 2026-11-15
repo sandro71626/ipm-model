@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it using the metadata below."
+title: "Indonesia Power Map: Data Collection"
+abstract: >-
+  A data collection of Indonesia's power system for modelling: existing power plants, substations and
+  70-500 kV transmission lines, and every item of the RUPTL 2025-2034 generation, substation and
+  transmission plan, in CSV and GeoJSON.
+type: dataset
+authors:
+  - given-names: Sandro Agassi
+    family-names: Sitompul
+    email: contact@indonesiapowermap.com
+date-released: 2026-11-15
+version: "2.0.0"
+license: CC-BY-SA-4.0
+repository: "https://github.com/alexandertiopan1212/ipm-model"
+keywords:
+  - indonesia
+  - power-system
+  - electricity
+  - RUPTL
+  - power-plants
+  - substations
+  - transmission
+  - energy-modelling
+  - geojson
